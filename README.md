@@ -1,3 +1,22 @@
+### Hello👋
+
+My name is Romulo Santos, I'm 31 years old, I graduated in information systems(2018), however, I've never dedicated myself to programming, I've been working in the IT area since 2011.
+
+In these 11 years, I always worked as technical support, went through field service, support in the telecom area and worked 7 months in a consulting company, where I performed basic helpdesk services, server maintenance and backup routines. I'm currently work in a software house, acting as N2 support for hospitality systems, specifically for POS modules and their integrations.
+
+As a personal goal, I decided that in 2023 I would study real programming, starting studies in Javascript, Typescript and CSS. Initially, I'm flirting with the idea of being a backend developer, but we'll see where my knowledge takes me.
+
+I am grateful to my friends and supporters for this new journey.
+
+#My beloved wife❤<br>
+#Jimmy Huang<br>
+#Lucas Godoy, aka Wuzi<br>
+#Aislan James<br>
+
+
+<br><br>
+pt-br
+
 ### Olá👋
 
 
