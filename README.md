@@ -12,7 +12,7 @@ pt-br
 ### Olá👋
 
 
-Me chamo Romulo Santos, tenho 31 anos, sou formado em sistemas da informação(2018), porém, nunca me dediquei a programação, trabalho na area de TI desde 2011.
+Me chamo Romulo Santos, tenho 31 anos, formado em sistemas da informação(2018), porém, nunca me dediquei a programação, trabalho na area de TI desde 2011.
 
 Como meta pessoal, descidi que em 2023 iria estudar programação de verdade, iniciando os estudos em Javascript, Typescript e CSS.
 Inicialmente, flerto com a ideia de ser um desenvolvedor backend, mas, veremos onde meus conhecimentos irão me levar.
